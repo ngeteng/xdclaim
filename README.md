@@ -2,7 +2,8 @@
 
  This tools just help claim xdc from ledgermail, you must register first !</br>
  </br>
- Jadi abis jalanin Bot ini, check aja wallet kalian sampe ada 10 xdc masuk baru stop ini tools.
+ Jadi abis jalanin Bot ini, check aja wallet kalian sampe ada 10 xdc masuk baru stop ini tools.</br>
+ Tools seadanya karna situasi website nya down terus :(</br>
  
 # How To Use ?</br>
  1. Clone repo</br>
