@@ -1,6 +1,6 @@
 # xdc Claim
 
- This tools just help for claim xdc from ledgermail, you must register first !
+ This tools just help for claim xdc from ledgermail, you must register first !\n
  Jadi abis jalanin Bot ini, check aja wallet kalian sampe ada 10 xdc masuk baru stop ini tools.
  
 # How To Use ?
