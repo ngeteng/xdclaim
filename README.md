@@ -15,9 +15,9 @@
  7. jalankan python3 claim.py</br>
 </br>
 # Puyeng ? Baca disini <a href="https://www.sans.eu.org/2021/01/review-cara-kerja-bot-shopee-sans.html" target="_blank">Santuy</a></br>
-# <a href="https://www.sans.eu.org/2021/01/review-cara-kerja-bot-shopee-sans.html" target="_blank">Telegram</a></br>
-
-#BSC Wallet</br>
+# Error Report <a href="https://www.sans.eu.org/2021/01/review-cara-kerja-bot-shopee-sans.html" target="_blank">Telegram</a></br>
+</br>
+# BSC Wallet</br>
 </br>
 </br>
 <img src="photo6159025262319218372.jpg"/>
